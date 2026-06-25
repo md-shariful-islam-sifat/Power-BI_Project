@@ -1,7 +1,7 @@
 ##🔍 Key Insights from the Dashboard:
-✅ Sales performance by category, region, and segment
-✅ Monthly sales and profit trend analysis (2019 vs 2020)
-✅ Customer payment behavior analysis
-✅ Shipping mode performance
-✅ Geographic sales distribution by state
+✅ Sales performance by category, region and segment<br>
+✅ Monthly sales and profit trend analysis (2019 vs 2020)<br>
+✅ Customer payment behavior analysis<br>
+✅ Shipping mode performance<br>
+✅ Geographic sales distribution by state<br>
 ✅ Delivery efficiency tracking with average delivery time
