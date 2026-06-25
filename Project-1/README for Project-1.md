@@ -1,4 +1,4 @@
-##🔍 Key Insights from the Dashboard:<br>
+**🔍 Key Insights from the Dashboard:**<br>
 ✅ Sales performance by category, region and segment<br>
 ✅ Monthly sales and profit trend analysis (2019 vs 2020)<br>
 ✅ Customer payment behavior analysis<br>
