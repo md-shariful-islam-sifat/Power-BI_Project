@@ -5,3 +5,6 @@
 ✅ Shipping mode performance<br>
 ✅ Geographic sales distribution by state<br>
 ✅ Delivery efficiency tracking with average delivery time
+
+## Dashboard Overview
+![Dashboard](https://github.com/md-shariful-islam-sifat/Power-BI_Project/blob/e62a88dcb1e19b0b236af2af06ab768546c7d4cc/Project-1/Dashboard%20Overview.png)
